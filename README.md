@@ -1,4 +1,4 @@
-# SEO Optimization For Horiseon
+# SEO Optimization for Horiseon
 
 ## Description
 This project is to more effeciently optimize the SEO ranking for client "Horiseon" by:
